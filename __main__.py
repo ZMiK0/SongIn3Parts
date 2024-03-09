@@ -54,6 +54,6 @@ for i in range(partAmmount):
 path = filedialog.askdirectory()
 
 for j in range(len(partList)):
-    partList[j].export(path + "/" + songName + f"{j}Part.wav", format="wav")
+    partList[j].export(path + "/" + songName + f"{j+1}Part.wav", format="wav")
 
 print("DONE :D")

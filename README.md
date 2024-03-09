@@ -1,17 +1,18 @@
 # Canción en 3 partes
 
 ---
-## Descripción
-¿Alguna vez has deseado poder dividir una canción e ir cambiando entre sus partes para una partida de rol o similares?
+## Description
+Have you ever wished you could divide a song and switch between its parts for a role game or similar like some videogames does in cutscenes?
 
-**Pues este es tu programa.**
+**Well, this is your program.**
 
-Podrás dividir tu canción en 3 partes _(Inicio, Estribillo y Final)_.
-Con esto podrás lograr una inmersión en tu partida nunca antes vista.
+You can divide your song into 3 or more parts _(Beginning, Chorus, and End)_ so you can achieve an immersion in your game like never before.
+
 ---
-## Dependencias
-> Proximamente
+## Dependencies
+> - pydub
+> - tkinter
 ---
-## Instalación
-> Proximamente
+## Installation
+> Coming soon
 ---
