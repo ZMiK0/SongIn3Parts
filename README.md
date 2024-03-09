@@ -2,11 +2,11 @@
 
 ---
 ## Description
-Have you ever wished you could divide a song and switch between its parts for a role game or similar like some videogames does in cutscenes?
+Have you ever wished you could segment a song and transition between its parts for a role-playing game, similar to how some video games do in cutscenes?
 
-**Well, this is your program.**
+**If so, this is the program for you.**
 
-You can divide your song into 3 or more parts _(Beginning, Chorus, and End)_ so you can achieve an immersion in your game like never before.
+You can divide your song into three or more parts *(Beginning, Chorus, and End)* to enhance the immersion in your game like never before.
 
 ---
 ## Dependencies
