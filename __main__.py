@@ -1,4 +1,3 @@
-from pydub import AudioSegment
 import tkinter
 from tkinter import filedialog
 import song

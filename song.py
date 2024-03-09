@@ -1,5 +1,3 @@
-import this
-
 from pydub import AudioSegment
 
 class Song(object):
