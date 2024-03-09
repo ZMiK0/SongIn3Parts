@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa577711-46df-4c99-8919-96b8fedee840" name="Changes" comment="Removed useless text">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="aa577711-46df-4c99-8919-96b8fedee840" name="Changes" comment="Gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709952910703</updated>
-      <workItem from="1709952912726" duration="5642000" />
+      <workItem from="1709952912726" duration="5727000" />
     </task>
     <task id="LOCAL-00001" summary="Primer paso">
       <option name="closed" value="true" />
@@ -115,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709958519703</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Removed useless text">
+      <option name="closed" value="true" />
+      <created>1709958562822</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709958562822</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +136,8 @@
     <MESSAGE value="Readme update" />
     <MESSAGE value="Removed useless comentary" />
     <MESSAGE value="Removed useless text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed useless text" />
+    <MESSAGE value="Gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gitignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Proyecto3Partes$main.coverage" NAME="main Coverage Results" MODIFIED="1709958214878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

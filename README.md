@@ -6,7 +6,7 @@
 
 **Pues este es tu programa.**
 
-Podrás dividir tu canción en 3 partes _(Inicio, Estrbillo y Final)_ o más si asi lo deseas.
+Podrás dividir tu canción en 3 partes _(Inicio, Estribillo y Final)_.
 Con esto podrás lograr una inmersión en tu partida nunca antes vista.
 ---
 ## Dependencias
