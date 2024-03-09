@@ -3,8 +3,6 @@ from pydub import AudioSegment
 class Song(object):
     title = ""
     partList = []
-    def __init__(self,):
-        this.title = ""
 
     def setFormat(self, path):
         goodChoice = False

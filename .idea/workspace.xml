@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa577711-46df-4c99-8919-96b8fedee840" name="Changes" comment="READMEUpdate">
+    <list default="true" id="aa577711-46df-4c99-8919-96b8fedee840" name="Changes" comment="removed a weird thing">
+      <change beforePath="$PROJECT_DIR$/.idea/Proyecto3Partes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Proyecto3Partes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/song.py" beforeDir="false" afterPath="$PROJECT_DIR$/song.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ZMiK0&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1461d1ad-dccb-4c5d-ae75-db0318f381c1" />
+        <option name="url" value="https://github.com/ZMiK0/SongIn3Parts.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,7 +60,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/belz/Descargas/ProyectoFinalPython",
+    "last_opened_file_path": "/home/belz/Escritorio/Proyectos/ProyectoRol/Proyecto3Partes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,7 +85,9 @@
       <option name="presentableId" value="Default" />
       <updated>1709952910703</updated>
       <workItem from="1709952912726" duration="5905000" />
-      <workItem from="1709999211825" duration="5626000" />
+      <workItem from="1709999211825" duration="6626000" />
+      <workItem from="1710009880792" duration="36000" />
+      <workItem from="1710009967373" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="Primer paso">
       <option name="closed" value="true" />
@@ -176,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710008451176</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="removed a weird thing">
+      <option name="closed" value="true" />
+      <created>1710008734237</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710008734237</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +221,8 @@
     <MESSAGE value="New class Song for better code" />
     <MESSAGE value="Typo" />
     <MESSAGE value="READMEUpdate" />
-    <option name="LAST_COMMIT_MESSAGE" value="READMEUpdate" />
+    <MESSAGE value="removed a weird thing" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed a weird thing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Proyecto3Partes$main.coverage" NAME="main Coverage Results" MODIFIED="1710000219459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
