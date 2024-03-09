@@ -12,9 +12,9 @@ actualSong = song.Song()
 actualSong.setFormat(path)
 actualSong.setTitle()
 
-partAmmount = int(input("Introduce how many parts do you want: "))
+partAmount = int(input("Introduce how many parts do you want: "))
 
-actualSong.addPart(partAmmount,path)
+actualSong.addPart(partAmount, path)
 
 path = filedialog.askdirectory()
 

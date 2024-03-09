@@ -38,13 +38,13 @@ class Song(object):
                 i += 1
 
         self.title = self.title[::-1]
-        return ("Selected song: " + self.title)
+        return print("Selected song: " + self.title)
 
     def getName(self):
         return self.title
 
-    def addPart(self,partAmmount,path):
-        for i in range(partAmmount):
+    def addPart(self,partAmount,path):
+        for i in range(partAmount):
             print(f"Now choose the {i + 1}º interval in seconds:")
             st = int(input("Start: "))
             end = int(input("End: "))
