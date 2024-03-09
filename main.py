@@ -51,13 +51,7 @@ thirdPart = thirdPart[st3:end3]
 path = filedialog.askdirectory()
 print(path)
 
-'''
-firstPart.export(path.replace(".wav", "")  + "1.wav", format="wav") # Exporta el audio
-secondPart.export(path.replace(".wav", "") + "2.wav", format="wav")
-thirdPart.export(path.replace(".wav", "") + "3.wav", format="wav")
-'''
 
-
-firstPart.export(path + "/" + songName + "1Part.wav", format="wav") # Exporta el audio
+firstPart.export(path + "/" + songName + "1Part.wav", format="wav")
 secondPart.export(path + "/" + songName + "2Part.wav", format="wav")
 thirdPart.export(path + "/" + songName + "3Part.wav", format="wav")
